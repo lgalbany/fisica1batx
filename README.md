@@ -4,6 +4,8 @@ Aplicació web en català per practicar cinemàtica de primer de batxillerat tec
 
 ## Contingut
 
+- 17 exercicis de preparació de l’examen: A–K i V1–V6, amb g = 10 m/s².
+- Pràctica guiada i mode examen amb pistes i resolucions ocultes fins al lliurament.
 - 73 exercicis adaptats del dossier de classe, numerats com a l’original.
 - Pistes progressives, correcció de respostes i resolucions pas a pas.
 - Set models d’entrenament amb dades noves i resultats recalculats.
@@ -26,6 +28,7 @@ Els canvis als fitxers de `docs/` es publicaran automàticament un cop activada 
 - `docs/index.html`: estructura i contingut general.
 - `docs/style.css`: disseny adaptable a mòbil i ordinador.
 - `docs/data.js`: banc d’exercicis i solucions.
+- `docs/exam.js`: enunciats del nou full, resultats recalculats i resolucions.
 - `docs/app.js`: navegació, correcció, entrenament i progrés.
 - `check.cjs`: comprovacions de dades, càlculs i fluxos amb un DOM simulat.
 
